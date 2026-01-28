@@ -12,7 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Run Tests
+      - name: Run Test
         run: |
           yarn install 
           yarn test
+          yarn delete
