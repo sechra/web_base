@@ -4,7 +4,7 @@
   "editor.formatOnSave": true, // use ⌘-K S (or Ctrl-K S) to format without saving
 
   // Disable built-in formatters
-  "html.format.enable": false,
+  "html.format.enable": true,
   "json.format.enable": false,
 
   // TypeScript
@@ -26,7 +26,7 @@
   },
   "editor.codeActionsOnSave": ["source.fixAll.eslint"],
   "eslint.packageManager": "yarn",
-  "eslint.useESLintClass": true,
+  "eslint.useESLintClass": false,
   "eslint.workingDirectories": [
     { "pattern": "apps/*" },
     { "pattern": "examples/*" },
