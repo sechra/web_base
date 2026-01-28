@@ -19,12 +19,12 @@ body:
       label: Steps
       description: Steps to reproduce the behavior.
       placeholder: |
-        1. Go to '...'
-        2. Click on '....'
-        3. Scroll down to '....'
+        1. Go to 'Base'
+        2. Click on 'buttom'
+        3. Scroll down to 'trade'
         4. See error
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: expected
