@@ -7,9 +7,9 @@ import { EcosystemHero } from 'apps/web/src/components/Ecosystem/Hero';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://base.org'),
-  title: `Base | Ecosystem`,
+  title: `Base Ecosystem`,
   openGraph: {
-    title: `Base | Ecosystem`,
+    title: `Base Ecosystem`,
     url: `/ecosystem`,
   },
 };
