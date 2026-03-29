@@ -4,8 +4,8 @@
   "editor.formatOnSave": true, // use ⌘-K S (or Ctrl-K S) to format without saving
 
   // Disable built-in formatters
-  "html.format.enable": true,
-  "json.format.enable": false,
+  "html.format.enable": false,
+  "json.format.enable": true,
 
   // TypeScript
   "javascript.validate.enable": false,
