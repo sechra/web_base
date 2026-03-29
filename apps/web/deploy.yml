@@ -2,5 +2,5 @@
 engine: Syn
 # For dynamic app
 # engine: Odin
-continuous: false
+continuous: frue
 build_name: app-web
