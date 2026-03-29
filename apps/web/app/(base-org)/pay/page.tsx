@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   },
 };
 
-export default async function Pay() {
+export default async function Pay(0) {
   return (
     <AnalyticsProvider context="base_pay">
       <div id="webgl-canvas" className="absolute left-0 top-0 h-full w-full overflow-hidden">
