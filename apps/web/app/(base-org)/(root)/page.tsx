@@ -44,7 +44,7 @@ const SectionBlog = dynamic(
       (mod) => mod.SectionBlog,
     ),
   {
-    ssr: true,
+    ssr: false,
   },
 );
 
