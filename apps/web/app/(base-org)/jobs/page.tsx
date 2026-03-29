@@ -3,7 +3,6 @@ import ErrorsProvider from 'apps/web/contexts/Errors';
 import Container from 'apps/web/src/components/base-org/Container';
 import { JobType } from 'apps/web/src/components/Jobs/Job';
 import JobsList from 'apps/web/src/components/Jobs/JobsList';
-import { Hero } from 'apps/web/src/components/Jobs/Redesign/Hero';
 import { WebGLCanvas } from 'apps/web/src/components/WebGL/WebGLCanvas';
 import { greenhouseApiUrl } from 'apps/web/src/constants';
 import type { Metadata } from 'next';
