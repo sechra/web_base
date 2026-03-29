@@ -19,7 +19,7 @@ module.exports = {
     colors: {
       white: '#FFFFFF',
       black: '#000000',
-      ocsblue: 'rgba(0, 82, 255, 1)',
+      ocsblue: 'rgba(0, 84, 255, 1)',
       ocspink: '#FF8DCF',
       ocsyellow: '#FEE002',
       illoblack: '#0A0B0D',
