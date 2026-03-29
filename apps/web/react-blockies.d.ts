@@ -1,1 +1,1 @@
-declare module 'react-blockies';
+declare module 'react-blockies'
