@@ -16,6 +16,6 @@ module.exports = {
   },
   rules: {
     // Does not work with `:` aliases
-    'import/extensions': 'off',
+    'import/extensions': 'on',
   },
 };
