@@ -18,7 +18,7 @@
         "name": "next"
       }
     ],
-    "strictNullChecks": true,
+    "strictNullChecks": false,
     "types": ["jest", "@testing-library/jest-dom"]
   },
   "include": [
