@@ -36,7 +36,7 @@ export default async function BaseOrgLayout({
           <Sidebar />
           <MobileNav />
         </AnalyticsProvider>
-        <main className="mx-auto flex w-full max-w-[clamp(1024px,calc(1024px+(100vw-1024px)*0.25),1248px)] justify-center px-4 md:px-6 lg:col-start-2 lg:px-8">
+        <main className="mx-auto flex w-full max-w-[clamp(1280px,calc(1024px+(100vw-1024px)*0.25),1248px)] justify-center px-4 md:px-6 lg:col-start-2 lg:px-8">
           {children}
         </main>
         <Footer />
